@@ -48,5 +48,9 @@ namespace Lab_4._2
 					break;
 			}
 		}
+		static void Plus(double a, double b)
+		{
+			Console.WriteLine(a + b);
+		}
 	}
 }
