@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab_4._2
 {
-    class Program
-    {
-        private static double A, B;
-        static void Main(string[] args)
-        {
+	class Program
+	{
+		private static double A, B;
+		static void Main(string[] args)
+		{
 			while (true)
 			{
 				PrintMenu();
