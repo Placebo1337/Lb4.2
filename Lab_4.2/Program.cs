@@ -84,5 +84,9 @@ namespace Lab_4._2
 		{
 			Console.WriteLine(a * b);
 		}
+		static void Divide(double a, double b)
+		{
+			Console.WriteLine(a / b);
+		}
 	}
 }
