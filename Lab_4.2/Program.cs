@@ -76,5 +76,9 @@ namespace Lab_4._2
 		{
 			Console.WriteLine(a + b);
 		}
+		static void Minus(double a, double b)
+		{
+			Console.WriteLine(a - b);
+		}
 	}
 }
