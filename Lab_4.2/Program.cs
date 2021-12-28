@@ -59,6 +59,17 @@ namespace Lab_4._2
 				Console.WriteLine("Please type in a number.");
 			}
 		}
+		static void InputB(string input)
+		{
+			try
+			{
+				B = double.Parse(input);
+			}
+			catch (Exception)
+			{
+				Console.WriteLine("Please type in a number.");
+			}
+		}
 
 
 	}
